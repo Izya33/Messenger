@@ -1,3 +1,28 @@
+## Screenshots
+
+### Main Window
+
+<p align="center">
+  <img src="screenshots/main.png" alt="Messenger Main Window" width="700">
+</p>
+
+### Authentication & Group Creation
+
+<table>
+  <tr>
+    <th>Login Window</th>
+    <th>Group Creation</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/login.png" alt="Login Window" height="300">
+    </td>
+    <td align="center">
+      <img src="screenshots/creaate_group.png" alt="Group Creation" height="300">
+    </td>
+  </tr>
+</table>
+
 # TCP Messenger — C# Client-Server Application
 
 A desktop messaging application developed in **C# and .NET**, featuring a centralized client-server architecture, TCP/IP communication, a WPF user interface, and Microsoft SQL Server database integration.

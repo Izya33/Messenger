@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="MessengerClient/MessengerClient.csproj" />
+  <Project Path="MessengerDatabase/MessengerDatabase.csproj" Id="053a960a-96de-46c3-9313-b6347115a900" />
+  <Project Path="MessengerServer/MessengerServer.csproj" />
+  <Project Path="MessengerShared/MessengerShared.csproj" />
+</Solution>
